@@ -19,7 +19,7 @@ any IDEs, etc.
 1. Import the files into an IDE.
 2. Once done, right click the root folder of the project and select maven build. This will download all the necessary libraries, the project requires.
 3. Once downloaded, now you can again right click the 'BillcounterApplication' Java file and select Run As JavaApplication , under Run as option.
-4. Once execute successfully, api will be available at  http://localhost:8500/api/v1/bill.
+4. Once execute successfully, api will be available at  http://localhost:8600/api/v1/bill.
 5. Utilise the APIs to fetch detailed bill by sending product Id's as input.
 
 #### Features:
