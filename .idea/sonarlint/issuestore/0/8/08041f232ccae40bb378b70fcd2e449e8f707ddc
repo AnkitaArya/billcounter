@@ -1,4 +1,0 @@
-
-squid:UselessImportCheck	"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿ8’¤ĞÃÈ.
-ksquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÿä°¹ıÿÿÿÿ8ÛÌò¿È.
-{squid:UselessImportCheck"KRemove this unused import 'com.app.billcounter.service.ProductBillService'.(Î¢îÅúÿÿÿÿ8ßø¿È.

@@ -1,6 +1,0 @@
-
-nsquid:UselessImportCheck"CRemove this unused import 'com.app.billcounter.dao.ProductBillDao'.(“•÷£8ÀËú¿È.
-Jsquid:S1612N",Replace this lambda with a method reference.(ù¬Â8º³÷¿È.
-[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÜòÄÈ.
-ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïçá¹8º³÷¿È.
-Osquid:S1612H",Replace this lambda with a method reference.(·ç¢ûÿÿÿÿ8ã“ç×È.

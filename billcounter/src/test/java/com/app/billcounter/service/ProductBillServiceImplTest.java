@@ -26,7 +26,7 @@ import static org.mockito.Mockito.anySet;
 import static org.mockito.Mockito.when;
 
 
-public class ProductServiceTest {
+public class ProductBillServiceImplTest {
 
     @Mock
     private ProductBillDao productBillDao = Mockito.mock(ProductBillDaoImpl.class);
