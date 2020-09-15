@@ -8,8 +8,20 @@ public class BillResource {
     private float totalCostWithTax;
     private float totalTax;
     private float totalCostWithoutTax;
+    
+	public BillResource() {
+	}
 
-    public List<ProductResource> getProducts() {
+	public BillResource(List<ProductResource> products, float totalCostWithTax, float totalTax,
+			float totalCostWithoutTax) {
+		super();
+		this.products = products;
+		this.totalCostWithTax = totalCostWithTax;
+		this.totalTax = totalTax;
+		this.totalCostWithoutTax = totalCostWithoutTax;
+	}
+
+	public List<ProductResource> getProducts() {
         return products;
     }
 

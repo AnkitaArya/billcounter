@@ -31,9 +31,20 @@ public class ProductEntity implements Serializable {
 
     @Column(name= "PRICE")
     private float price;
+    
+    public ProductEntity() {
+	}
 
+	public ProductEntity(String productId, String productName, String productDesc, String taxCategory, float price) {
+		super();
+		this.productId = productId;
+		this.productName = productName;
+		this.productDesc = productDesc;
+		this.taxCategory = taxCategory;
+		this.price = price;
+	}
 
-    public String getProductId() {
+	public String getProductId() {
         return productId;
     }
 
